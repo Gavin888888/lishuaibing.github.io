@@ -24,7 +24,7 @@ export default {
                 'url': 'https://github.com/Gavin888888'
             },
             {
-                'network': '简书',
+                'network': 'jianshu',
                 'username': '跑步的李磊',
                 'url': 'https://www.jianshu.com/u/86151bfdf53c'
             }
