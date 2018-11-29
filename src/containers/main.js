@@ -54,7 +54,7 @@ class Main extends React.Component {
                     }
                 }
 
-                pdf.save('郭海龙-web前端.pdf')
+                pdf.save('李帅兵-iOS.pdf')
             }
         })
     }

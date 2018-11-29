@@ -14,7 +14,7 @@ class Content extends React.Component {
     }
 
     getPublications() {
-        fetch('https://api.github.com/users/skyvow/repos')
+        fetch('https://api.github.com/users/Gavin888888/repos')
             .then(response => response.json())
             .then(data => {
                 console.log(data)

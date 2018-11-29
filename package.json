@@ -79,6 +79,6 @@
     "dll": "webpack --config ./webpack.dll.config.babel.js",
     "build": "cross-env NODE_ENV=production webpack"
   },
-  "author": "skyvow",
+  "author": "Gavin888888",
   "license": "MIT"
 }

@@ -44,7 +44,7 @@ src/
 ## 使用方法
 
 ```sh
-$ git clone https://github.com/skyvow/skyvow.github.io.git
+$ git clone https://github.com/Gavin888888/Gavin888888.github.io.git
 $ cd skyvow.github.io
 $ npm install
 $ npm run dll & npm start
