@@ -106,6 +106,41 @@ export default {
             'highlights': [
                 '人保健康佳是中国人保健康广东分公司官方应用，是集电子健康档案查询、家庭医生健康管理、分级诊疗服务、疾病早期筛查服务为一体的综合性健康管理平台。结合云服务端和移动应用端，使每一位患者都能得到便捷、高效、实际的健康服务',
             ]
+        },
+        {
+            'organization': '嘉康蜜分享',
+            'position': 'iOS 高级软件工程师',
+            'website': '',
+            'startDate': '2018.01',
+            'endDate': '至今',
+            'summary': '微信小程序',
+            'highlights': [
+                '主要是把宣传文字、二维码和底图合成一张图片，可以保存到相册或者转发到微信',
+            ]
+        },
+        {
+            'organization': '嘉康分诊',
+            'position': 'iOS 高级软件工程师',
+            'website': '',
+            'startDate': '2018.01',
+            'endDate': '至今',
+            'summary': 'iOS客户端',
+            'highlights': [
+                '主要用于客服人员，把不同患者分诊到医生名下',
+            ]
+        },
+        {
+            'organization': '优儿学唐诗',
+            'position': 'iOS 高级软件工程师',
+            'website': '',
+            'startDate': '2018.01',
+            'endDate': '至今',
+            'summary': 'iOS客户端',
+            'highlights': [
+                '视频播放功能：可以播放唐诗、儿歌和英文歌曲的视频',
+                '搜索功能：用户可以自主搜索自己想要的内容',
+                '收藏功能：用户登录后，可以收藏自己喜欢的视频',
+            ]
         }
     ],
     'education': [
